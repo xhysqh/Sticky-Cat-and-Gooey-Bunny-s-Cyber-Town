@@ -1,5 +1,5 @@
 # Meow & Bunny Town
-Uploading 演示视频.mp4
+https://github.com/xhysqh/Sticky-Cat-and-Gooey-Bunny-s-Cyber-Town/blob/main/%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91.mp4
 A tiny Godot town where AI neighbors remember you, warm up to you, and occasionally solve bugs with very soft paws.
 
 ## What Is This?
