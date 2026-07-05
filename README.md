@@ -2,12 +2,8 @@
 
 
 ## Demo Video
+https://github.com/xhysqh/Sticky-Cat-and-Gooey-Bunny-s-Cyber-Town/issues/1#issue-4811596375
 
-[Watch the demo video](./demo.mp4)
-
-A tiny Godot town where AI neighbors remember you, warm up to you, and occasionally solve bugs with very soft paws.
-
-A tiny Godot town where AI neighbors remember you, warm up to you, and occasionally solve bugs with very soft paws.
 A tiny Godot town where AI neighbors remember you, warm up to you, and occasionally solve bugs with very soft paws.
 
 ## What Is This?
